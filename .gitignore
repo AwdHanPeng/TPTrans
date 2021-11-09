@@ -1,10 +1,1 @@
-*.json
-/raw_data
-/vendor
-/catch
-/checkpoint
-/run
-/build
-*.pyc
-/history_run
-/data
+
