@@ -1,7 +1,7 @@
 This is an official Pytorch implementation of the approaches proposed in:
 > Han Peng, Ge Li, Wenhan Wang, Yunfei Zhao, Zhi Jin *“Integrating Tree Path in Transformer for Code Representation”* 
 
-which appeared at **NeurIPS 2021**[[Paper Link](https://openreview.net/forum?id=70Q_NeHImB3)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/4e0223a87610176ef0d24ef6d2dcde3a_Mar8Aqc.png)][[Slides](https://neurips.cc/media/neurips-2021/Slides/26141.pdf)].
+which appeared at **NeurIPS 2021**[[Paper Link](https://papers.nips.cc/paper/2021/file/4e0223a87610176ef0d24ef6d2dcde3a-Paper.pdf)][[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202021/4e0223a87610176ef0d24ef6d2dcde3a_Mar8Aqc.png)][[Slides](https://neurips.cc/media/neurips-2021/Slides/26141.pdf)].
 
 In this paper, we investigate the interaction between the absolute and relative path encoding, 
 and propose novel code representation model _TPTrans_ and its variants, which introduce path encoding inductive bias 
