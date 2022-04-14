@@ -13,4 +13,4 @@ And also a dict file picked from the github repository of [Code Transformer](htt
 
 For ct_vocab.json, we remove some not used special tokens presented in Code Transformer, 
 and then add ours special tokens _STR_, _METHOD_ and _NUM_. We don't change other words in the vocab.
-Keeping the same vocab is crucial for fair comparison of our models compared with baselines (please refer the _statistic.py_ in _parser_ dir for detailed reasons).
+Keeping the same vocab is crucial for fair comparison of our models compared with baselines.
