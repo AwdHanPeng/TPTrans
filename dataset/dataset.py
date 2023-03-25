@@ -47,7 +47,6 @@ class PathAttenDataset(Dataset):
         if self.args.tiny_data > 0:
             self.corpus_line = self.args.tiny_data
         self.hop = self.args.hop
-        self.rp_sample = self.args.rp_sample
 
     def __len__(self):
         return self.corpus_line
